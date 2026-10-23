@@ -47,8 +47,6 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0DD66Mq/images.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
 
 
@@ -227,7 +225,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg", Bantul The Great
 https://tv.kbhub.online/Cartoon/Bantul-The-Great.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg", Nick
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/NMpFqbTV/images.png", Nick
 https://tv.kbhub.online/Cartoon/Nicktoons.m3u8
 
 

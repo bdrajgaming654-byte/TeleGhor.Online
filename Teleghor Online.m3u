@@ -100,22 +100,11 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1
 https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%201.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="Sports",Star Sports 2
-https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%202.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiK2BvWIdog5d4_UMPn02p00Bs7utBQ0-ud-qhIRY7WXSt1j930mzFCXqGWmeV1ddM9gCzmmlBvBlo_U6YIQaVmhYUXG4ERGYhqvXEp2qFpBz2md_7vDt_RpAvvUIm9xYrYGuf1ZNrfN8Nc4DnXxZKUOsoAbFLKWi3gGOQyD9YL5GKUQqA3ZbO2syY5ciOn" group-title="Sports",Star Sports 3
 https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%203.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/27.png" group-title="Sports",Star Sports SL 1
-https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%20SL%201.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports",Star Sports SL 2 
-https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%20SL%202.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="Sports",T Sports
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="Sports",TEN Cricket
 https://app.uckingcrazy1.workers.dev/api/play/T%20Sports.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png" group-title="Sports",Ten Cricket
-https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports",Unite8 Server 2
-https://app.uckingcrazy1.workers.dev/api/play/Unite8%20Server%202.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Sports",Unite8 Sports 1 HD
-https://app.uckingcrazy1.workers.dev/api/play/Unite8%20Sports%201%20HD.m3u8
+
 
 
 

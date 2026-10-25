@@ -2,6 +2,9 @@
 
 #EXTINF:-1 tvg-id="Channel1" tvg-name="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kGKJVRRk/unnamed.png" group-title="General",LIVE SPORTS 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Zee Bangla HD (720p)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-bangla-hd-720p-43-d83def601b6b888893d3ee33.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Enter TV

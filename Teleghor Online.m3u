@@ -258,11 +258,7 @@ https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1784102519&u=ee5437a7-c16b-4700-b31
 
 
 
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="International",Discovery Bangla [application/vnd.apple.mpegurl]
-https://app.uckingcrazy1.workers.dev/api/play/Discovery%20Bangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" group-title="International",Discovery HD [application/vnd.apple.mpegurl]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" group-title="International",Discovery HD
 https://app.uckingcrazy1.workers.dev/api/play/Discovery%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSzR4VjDggquDMNTVLT3gQIEXmw-kKrUDxFQHYIO9vn4FdqKe-1jaUzXckv8rtZ-VE9L6ecCY8kbQdjeDHwhhpWpEof1k5d9MO6K4NVGrlRrPAdHKXFcMjyG18SiZPIJdREMRnJ5TEcYs8IqTT5KPF4vQrT3kGcUfB1wL5WqXEjaGD0M-lsSW3kkmvQyNw/s1600/image.png" group-title="International",History TV 18 HD [768x432 | avc1.64001f,mp4a.40.2]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSzR4VjDggquDMNTVLT3gQIEXmw-kKrUDxFQHYIO9vn4FdqKe-1jaUzXckv8rtZ-VE9L6ecCY8kbQdjeDHwhhpWpEof1k5d9MO6K4NVGrlRrPAdHKXFcMjyG18SiZPIJdREMRnJ5TEcYs8IqTT5KPF4vQrT3kGcUfB1wL5WqXEjaGD0M-lsSW3kkmvQyNw/s1600/image.png" group-title="International",History TV 18 HD
 https://app.uckingcrazy1.workers.dev/api/play/History%20TV%2018%20HD.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7VArn1a1G6vJCm6HjktbrRAS4-_Eyk4Pz2jyUHsQy3zDeBPQiIZk4V603UGiVLkbNUxlWaZyBObr0khPc-8JpB0VnKGpfbAXztlYPfUcwlovT39_YTjptDorEz4E2ToHI3IX7Z_Z-STrJ8ngZLNGS00VqYrDGd-JyNNqULbi4yO7s7uet2ebGJGHrogGl/s1600/image.png" group-title="International",Nat Geo Wild [768x432 | avc1.64001e,mp4a.40.2]
-https://app.uckingcrazy1.workers.dev/api/play/Nat%20Geo%20Wild.m3u8

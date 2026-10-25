@@ -129,7 +129,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://app.uckingcrazy1.workers.dev/api/play/Zee%20Bangla%202.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla HD
 https://app.uckingcrazy1.workers.dev/api/play/COLORS%20BANGLA.m3u8
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/PJbWDxnT/20240822-231631.png",Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJbWDxnT/20240822-231631.png" group-title="Entertainment",Colors Bangla Cinema
+https://app.uckingcrazy1.workers.dev/api/play/Colors%20Bangla%20Cinema.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JLzZW6W/Sony-Aath-Logo.png" group-title="Entertainment", Sony Aath

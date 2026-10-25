@@ -97,9 +97,40 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXx765TQ/20240823_024350.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Euro Sports HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/PTV%20Sports.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlA5ROEE9LY5Vm0i7ga1-ku7oHMd38GbTJwVd-DaGGRD4bFvSCvlEIjqrcM5qUX0htLFo3Z89cB-Dcx0zZqs4dJzO0u7P-seGDDmLNeqNpDuZXblqSf4eFcSPQQQgDRqK739kXgl6fVfDMEpsx7nicQsz3YD5mUAXSGp4mDynQTGXyQyFcd5iljJVZ9Ml6/s1600/image.png" group-title="Sports",Premier Sports [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Premier%20Sports.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOr1yG6RSLE-EjPejEoA-psJKogsqDqhfu768-yhZ58oxt-c5CAD8YuFJuff5P6yKuU1FWlJpMTBKtrmj-04Xr9MhgAlJeJBHvXH9fkLBXPtiWz0nl8W3Uf_rmCVK9h7SOVmDiPVyrRoqr_Zko0pgFZILgjf8Cig9Gq7JCRTuCQ6eMyyVsslWpA32chK7N/s1600/image.png" group-title="Sports",Rangdhonu Sports [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Rangdhonu%20Sports.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjXp4GTtFL30fkazCObt8Ak9GVdnMcX3GYDCg9nvuEPgdPF9ql0oD_RfNoAZ9XyTeIbPJrql_UygrnlrVOuBjR6tIm_2GkCL9g1VwqRNa83EDIkrWYMgZTdOR5GTGgobZqXgx6sGxKKK9Pj_-BYSbngRG6cqBIYE0ARopFpFLK0wllpjhk0zb2MS7qMTDC4" group-title="Sports",Sony Sports TEN 1 [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/Sony%20Sports%20TEN%201.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="Sports",Sony Sports TEN 2 [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/Sony%20Sports%20TEN%202.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjbXNl3qwLHjQWF9x95z8F0KXwR7kmx-8HSphs6w2nDy1YvNUFPqAB16TPPotG2OIPyy-FdgVHE8jipV-6i6MowbZuuYXenajQGeJU6UQB-omlWRNdybmW39C2uk2iiO3TQkAv2pFL91-SW32-yQkxwXhbN4mQWEi-Gt3mEbnHcCXPCzjjc5O6L0lCiOzMI" group-title="Sports",Sony Sports TEN 3 [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/Sony%20Sports%20TEN%203.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjZidBd1Cj8x_o7amQxiQJBPTetP6Dj9ksIuTAfA0KCMYC9Ufa_jjaA6dqO2bqI2QFGk7Yu7fkg-eOnG8PlmVcxUZwgyg1dvhJxHBQMSnbV5whzxdMPvkrA4K-c7H30sJ9j-J4wuoGcHlOrxwGa3CCblssZ-_CpyQ-7ef9R8xpCDt_2TvgTvcqA_pCQbyvs" group-title="Sports",Sony Sports TEN 4 [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/Sony%20Sports%20TEN%204.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png" group-title="Sports",Sony Sports TEN 5 [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/Sony%20Sports%20TEN%205.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1 [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%201.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="Sports",Star Sports 2 [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%202.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiK2BvWIdog5d4_UMPn02p00Bs7utBQ0-ud-qhIRY7WXSt1j930mzFCXqGWmeV1ddM9gCzmmlBvBlo_U6YIQaVmhYUXG4ERGYhqvXEp2qFpBz2md_7vDt_RpAvvUIm9xYrYGuf1ZNrfN8Nc4DnXxZKUOsoAbFLKWi3gGOQyD9YL5GKUQqA3ZbO2syY5ciOn" group-title="Sports",Star Sports 3 [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%203.m3u8
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/27.png" group-title="Sports",Star Sports SL 1 [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%20SL%201.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports",Star Sports SL 2 [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Star%20Sports%20SL%202.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="Sports",T Sports [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/T%20Sports.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png" group-title="Sports",Ten Cricket [1280x720 | avc1.4d401f,mp4a.40.2]
+https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sports",Unite8 Server 2 [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Unite8%20Server%202.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Sports",Unite8 Sports 1 HD [application/vnd.apple.mpegurl]
+https://app.uckingcrazy1.workers.dev/api/play/Unite8%20Sports%201%20HD.m3u8
 
 
 

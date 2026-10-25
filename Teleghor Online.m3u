@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Channel1" tvg-name="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kGKJVRRk/unnamed.png" group-title="General",LIVE SPORTS 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,Colors Bangla HD
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
+
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png",National Geographic HD
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 
@@ -262,9 +265,3 @@ https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1784102519&u=ee5437a7-c16b-4700-b31
 
 
 
-#EXTINF:-1,Sheemaroo Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1,Hindi Movies 3
-https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1,B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8

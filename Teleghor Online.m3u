@@ -6,8 +6,6 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/F1XYYk9L/images.jpg" group-title="Sports",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F1XYYk9L/images.jpg" provider="fb:M3U_World_4K" ,T Sports HD 
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
@@ -95,7 +93,7 @@ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23306.ts#fb:M3U_World_4K
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JLzZW6W/Sony-Aath-Logo.png" group-title="Entertainment", Sony Aath
 

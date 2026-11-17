@@ -71,6 +71,11 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=eeb0cd6768be49eeb8eac3df17638a4e:3496163276404b46906865eadd195e67
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
+#EXTINF:-1 tvg-id="sangeetbangla.in" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Bangla" provider="fb:M3U_World_4K",Sangeet Bangla
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/tracks-v1a1/mono.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61eV77C.png" group-title="Kids",Christian Youth Channel CYC

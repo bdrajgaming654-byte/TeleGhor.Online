@@ -1,1 +1,5 @@
-WELCOME TO TELEGHOR ONLINE!! 
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to TeleGhor IPTV!!"" group-title="Bangla",Channel Name 1
+https://example.com/live/stream1.m3u8

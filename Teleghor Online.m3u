@@ -76,12 +76,6 @@ https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61eV77C.png" group-title="Kids",Christian Youth Channel CYC
-http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-
-
-
-
 
 
 
@@ -95,8 +89,6 @@ https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/tJYx6vyL/download.jpg" provider="fb:M3U_World_4K",Zee Bangla HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23306.ts#fb:M3U_World_4K
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JLzZW6W/Sony-Aath-Logo.png" group-title="Entertainment", Sony Aath
 
@@ -136,8 +128,6 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e38c97217aa2b9b08475963910ec7e53_playmist_xtrem_sports400x400.png" group-title="Channels, Sports",Xtrem Sports 
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/F1XYYk9L/images.jpg" group-title="Sports",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 
 
